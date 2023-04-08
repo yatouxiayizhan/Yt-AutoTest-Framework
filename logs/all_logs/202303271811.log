@@ -1,0 +1,4 @@
+2023-03-27 18:11:48 - LoginPage - login_input_value - 26 - 输入用户名为：周杰伦
+2023-03-27 18:11:48 - LoginPage - login_input_value - 26 - 输入密码为：123456
+2023-03-27 18:11:48 - LoginPage - click_login - 38 - 点击登录
+2023-03-27 18:11:54 - LoginPage - login_assert - 78 - 登录后判断头像
